@@ -13,7 +13,7 @@ git clone [https://github.com/Mehmet1283ali/kodluyoruzilkrepo.git](https://githu
 
 -linux için:
 
-cd kodluyoruzilkrepo code .
+*cd kodluyoruzilkrepo* code .
 
 ## Contributing
 
